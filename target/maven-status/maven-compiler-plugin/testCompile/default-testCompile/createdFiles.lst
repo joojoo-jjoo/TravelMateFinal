@@ -1,0 +1,6 @@
+com\spring\tmz\mapper\Userinfo_test.class
+com\spring\tmz\datasource\DataSourceTests.class
+com\spring\tmz\controller\Review_reply_controller_test.class
+com\spring\tmz\controller\Review_controller_test.class
+com\spring\tmz\service\Friend_service_tests.class
+com\spring\tmz\mapper\Friend_mapper_tests.class
